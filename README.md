@@ -1,0 +1,1 @@
+# Automato-celular---2024.2
